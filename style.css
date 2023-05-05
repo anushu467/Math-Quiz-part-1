@@ -1,0 +1,13 @@
+.login_size{
+ background-color:white;
+ padding: 10px;
+ float: none;
+ border-radius: 20px;
+}
+body{
+ background-color: indianred;
+}
+#login{
+    background-color: aqua;
+   font-size: 25px;
+}
